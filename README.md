@@ -1,4 +1,8 @@
 ### Hi there 👋
+Denme ideas, yo las hago
+
+Un tik tak toe con brillitos:
+ - https://ricardogallegos92.github.io/gato-Dragon-Ball/
 
 <!--
 **RicardoGallegos92/RicardoGallegos92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
